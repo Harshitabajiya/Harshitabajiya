@@ -70,10 +70,7 @@
   </a> 
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lighthouse/lighthouse-original-wordmark.svg" alt="lighthouse" width="40" height="40"/> 
-  </a> 
+  </a>  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitabajiya&show_icons=true&locale=en&layout=compact" alt="harshitabajiya" /></p>
