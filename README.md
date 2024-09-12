@@ -3,19 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitabajiya&label=Profile%20views&color=0e75b6&style=flat" alt="harshitabajiya" /> </p>
 
-- 🔭 I’m currently working on **NS-3 Network Simulations.**
+🔭 I’m currently working on **Advanced Projects in Network Simulation and AI-Integrated Solutions.**
 
-- 🌱 I’m currently learning **Spring Boot and Advanced Algorithms.**
+🌱 I’m currently deepening my knowledge in **Data Stream Algorithms and Problem Solving.**
 
-- 👯 I’m looking to collaborate on **Open Source projects.**
+👯 I’m looking to collaborate on **Open Source and Research Projects in Networking and AI.**
 
-- 🤝 I’m looking for help with **Machine Learning-based projects.**
+🤝 I’m open to **mentorship and collaboration in Advanced Full Stack and Machine Learning Projects.**
 
-- 💬 Ask me about **Data Structures, Algorithms, and Java Development.**
+💬 Ask me about **Networking, Algorithms, and Backend Development.**
 
-- 📫 How to reach me **harshitabajiya2838@gmail.com**
+📫 Reach me at **harshitabajiya2838@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1jqCotGdN3MdJt0kk_77cdI64T87Sb0hi/view?usp=drive_link).
+📄 Know more about my experiences: [Resume](#)
+
+⚡ Fun fact: **I believe in constant growth and one day aim to make a significant impact in the tech world!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
