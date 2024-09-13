@@ -115,5 +115,5 @@
 
 <h3 align="left">Additional Information</h3>
 
-- Technical Team Member, MSC-BV
 - Winner of Tech Quiz at Rajasthan IT-Day Hackathon
+- Actively participated in coding events, hackathons, and certification programs, strengthening problemsolving skills and staying updated with new technologies
