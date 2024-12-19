@@ -106,13 +106,6 @@
 - **Technologies/Frameworks:** Spring Boot, GitHub
 - **Developer Tools:** Dev-C++, VS Code, NetBeans, Jupyter Notebook, Eclipse IDE, HeidiSQL, Postman
 
-<h3 align="left">Projects</h3>
-
-- **Quiz Application**  
-  Developed a feature-rich Quiz Application in Java, utilizing Object-Oriented Programming principles with core classes: Login, Rules, Quiz, and Score.
-
-- **Genuine Information Finder (GIF)**  
-  Built an AI model to verify facts using Machine Learning and Natural Language Processing.
 
 <h3 align="left">Additional Information</h3>
 
