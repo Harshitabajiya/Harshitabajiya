@@ -15,7 +15,7 @@
 
 📫 Reach me at **harshitabajiya2838@gmail.com**
 
-📄 Know more about my experiences: [Resume](https://drive.google.com/file/d/145hm2Sp2oRzKhVCMtkHHeaeufh33Sz0Z/view?usp=drivesdk)
+
 
 
 ⚡ Fun fact: **I believe in constant growth and one day aim to make a significant impact in the tech world!**
