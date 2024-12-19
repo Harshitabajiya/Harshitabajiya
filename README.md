@@ -94,10 +94,7 @@
   ➤ Worked under the prestigious TIHAN initiative for vehicle advancements.  
   ➤ Gained hands-on experience with algorithm development and cutting-edge research.
 
-- **Physics Wallah - Subject Matter Expert (SME)**  
-  Sept 2022 - July 2023  
-  ➤ Solved over 200 JEE Mains and NEET queries.  
-  ➤ Developed strong analytical and problem-solving skills.
+
 
 <h3 align="left">Technical Skills</h3>
 
