@@ -98,9 +98,9 @@
 
 <h3 align="left">Technical Skills</h3>
 
-- **Languages:** C/C++, Java, SQL
+- **Languages:** C/C++, Java,HTML,CSS, SQL
 - **Core Subjects:** OOPs, DSA, DBMS, Computer Networking, Operating System
-- **Technologies/Frameworks:** Spring Boot, GitHub
+- **Technologies/Frameworks:** Spring Boot,React,GitHub
 - **Developer Tools:** Dev-C++, VS Code, NetBeans, Jupyter Notebook, Eclipse IDE, HeidiSQL, Postman
 
 
